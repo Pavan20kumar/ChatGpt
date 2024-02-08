@@ -1,0 +1,52 @@
+
+.imgchat{
+    text-align: center;
+    margin-top: 22px;
+    position: relative;
+    left: 395px;
+   
+    border-radius: 50%;
+}
+.userinpt{
+    margin-top: 22px;
+    padding: 2px;
+    position: relative;
+    left: 295px;
+   
+    width: 450px;
+}
+hr{
+  
+    margin-right: 20px;
+}
+
+.result_item{
+   margin-top: 22px;
+}
+.result-title{
+    margin-top: 50px;
+    font-size: 15px;
+}
+button{
+    position: absolute;
+    top: 140px;
+    left: 830px;
+}
+@media only screen and (max-width: 768px) {
+    .imgchat{
+        text-align: center;
+        margin-top: 22px;
+        position: relative;
+        left: 45px;
+       
+        border-radius: 50%;
+    }
+    .userinpt{
+        margin-top: 22px;
+        padding: 2px;
+        position: relative;
+        left: 15px;
+       
+        width: 350px;
+    }
+  }
